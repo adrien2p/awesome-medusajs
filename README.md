@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="CONTRIBUTING.md">Contribution guide</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://docs.medusa-commerce.com/">Official documentation</a>
+<a href="https://docs.medusajs.com/">Official documentation</a>
 
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
@@ -32,8 +32,8 @@
 ## Resources
 
 - Official Resources
-  - [Website](https://www.medusa-commerce.com/)
-  - [Official Guide](https://docs.medusa-commerce.com/)
+  - [Website](https://www.medusajs.com/)
+  - [Official Guide](https://docs.medusajs.com/)
   - [GitHub Repo](https://github.com/medusajs/medusa)
     - [Gatsby starter](https://github.com/medusajs/gatsby-starter-medusa)
     - [Nextjs starter](https://github.com/medusajs/nextjs-starter-medusa)
@@ -43,8 +43,8 @@
   - [Twitter](https://twitter.com/intent/follow?screen_name=medusajs)
 
 - Tutorials
-  - [Official tutorials](https://www.medusa-commerce.com/blog)
-  - [Documentatuib tutorials](https://docs.medusa-commerce.com/tutorial/set-up-your-development-environment)
+  - [Official tutorials](https://www.medusajs.com/blog)
+  - [Documentatuib tutorials](https://docs.medusajs.com/tutorial/set-up-your-development-environment)
   
 - Examples
 
@@ -63,18 +63,18 @@
 ### PLugins
 
 - Official
-  - [Contentful](https://docs.medusa-commerce.com/add-plugins/contentful)
-  - [Strapi](https://docs.medusa-commerce.com/add-plugins/strapi)
-  - [Segment](https://docs.medusa-commerce.com/add-plugins/segment)
-  - [Medlisearch](https://docs.medusa-commerce.com/add-plugins/meilisearch)
-  - [Algolia](https://docs.medusa-commerce.com/add-plugins/algolia)
-  - [Spaces](https://docs.medusa-commerce.com/add-plugins/spaces)
-  - [S3](https://docs.medusa-commerce.com/add-plugins/s3)
-  - [Stripe](https://docs.medusa-commerce.com/add-plugins/stripe)
-  - [Klarna](https://docs.medusa-commerce.com/add-plugins/klarna)
-  - [Paypal](https://docs.medusa-commerce.com/add-plugins/paypal)
-  - [Sendgrid](https://docs.medusa-commerce.com/add-plugins/sendgrid)
-  - [Slack](https://docs.medusa-commerce.com/add-plugins/slack)
+  - [Contentful](https://docs.medusajs.com/add-plugins/contentful)
+  - [Strapi](https://docs.medusajs.com/add-plugins/strapi)
+  - [Segment](https://docs.medusajs.com/add-plugins/segment)
+  - [Medlisearch](https://docs.medusajs.com/add-plugins/meilisearch)
+  - [Algolia](https://docs.medusajs.com/add-plugins/algolia)
+  - [Spaces](https://docs.medusajs.com/add-plugins/spaces)
+  - [S3](https://docs.medusajs.com/add-plugins/s3)
+  - [Stripe](https://docs.medusajs.com/add-plugins/stripe)
+  - [Klarna](https://docs.medusajs.com/add-plugins/klarna)
+  - [Paypal](https://docs.medusajs.com/add-plugins/paypal)
+  - [Sendgrid](https://docs.medusajs.com/add-plugins/sendgrid)
+  - [Slack](https://docs.medusajs.com/add-plugins/slack)
 
 - Thirdparty
 
