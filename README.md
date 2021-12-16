@@ -85,8 +85,8 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
         - [Spaces](https://docs.medusajs.com/add-plugins/spaces)
         - [S3](https://docs.medusajs.com/add-plugins/s3)
         - [Minio](https://github.com/medusajs/medusa/tree/master/packages/medusa-file-minio)
-    - Loaders
-        [Shopify](https://github.com/medusajs/medusa/blob/master/packages/medusa-source-shopify/src/loaders/index.js)
+    - Loader
+        - [Shopify](https://github.com/medusajs/medusa/blob/master/packages/medusa-source-shopify/src/loaders/index.js)
     - Invoice
         - [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic)
     - Discount
