@@ -51,14 +51,15 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 - Community
   - [Discord](https://discord.gg/xpCwq3Kfn8)
   - [Twitter](https://twitter.com/intent/follow?screen_name=medusajs)
+  - [Twitch](https://www.twitch.tv/medusajs)
 
 - Tutorials
   - [Official tutorials](https://www.medusajs.com/blog)
   - [Documentatuib tutorials](https://docs.medusajs.com/tutorial/set-up-your-development-environment)
   
-- Examples
+### Video
 
-- Boilerplate
+[![Try it out](./assets/video-thumb-1.png)](https://cdn.loom.com/sessions/thumbnails/38d45d322cf749d6a20778c2b8afc07d-1635516731908.mp4)
 
 ## Projects using MedusaJS
 
