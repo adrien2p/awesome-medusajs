@@ -113,6 +113,7 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
         - [Slack](https://docs.medusajs.com/add-plugins/slack)
 
 - Third party
+   - [Starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
 
 ## Contribute
 
