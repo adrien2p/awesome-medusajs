@@ -80,7 +80,7 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
     - Analytics
         - [Segment](https://docs.medusajs.com/add-plugins/segment)
     - Search
-        - [Medlisearch](https://docs.medusajs.com/add-plugins/meilisearch)
+        - [Meilisearch](https://docs.medusajs.com/add-plugins/meilisearch)
         - [Algolia](https://docs.medusajs.com/add-plugins/algolia)
     - File
         - [Spaces](https://docs.medusajs.com/add-plugins/spaces)
