@@ -68,7 +68,7 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 
 - Open Source
 
-## Components & Libraries & Plugins
+## Components Libraries Plugins
 
 ### Components
 
