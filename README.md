@@ -42,8 +42,7 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 ## Resources
 
 - Information
-
-  - [Notion](https://medusajs.notion.site/medusajs/Medusa-Home-3485f8605d834a07949b17d1a9f7eafd)
+    - [Notion](https://medusajs.notion.site/medusajs/Medusa-Home-3485f8605d834a07949b17d1a9f7eafd)
 
 - Official Resources
   - [Website](https://www.medusajs.com/)
@@ -51,8 +50,8 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
   - [GitHub Repo](https://github.com/medusajs/medusa)
     - [Gatsby starter](https://github.com/medusajs/gatsby-starter-medusa)
     - [Nextjs starter](https://github.com/medusajs/nextjs-starter-medusa)
+  
 - Community
-
   - [Discord](https://discord.gg/xpCwq3Kfn8)
   - [Twitter](https://twitter.com/intent/follow?screen_name=medusajs)
   - [Twitch](https://www.twitch.tv/medusajs)
@@ -60,7 +59,7 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 - Tutorials
   - [Official tutorials](https://www.medusajs.com/blog)
   - [Documentatuib tutorials](https://docs.medusajs.com/tutorial/set-up-your-development-environment)
-
+  
 ### Video
 
 [![Try it out](./assets/video-thumb-1.png)](https://cdn.loom.com/sessions/thumbnails/38d45d322cf749d6a20778c2b8afc07d-1635516731908.mp4)
@@ -78,49 +77,48 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 ### Plugins
 
 - Official
-
-  - CMS
-    - [Contentful](https://docs.medusajs.com/add-plugins/contentful)
-    - [Strapi](https://docs.medusajs.com/add-plugins/strapi)
-  - Analytics
-    - [Segment](https://docs.medusajs.com/add-plugins/segment)
-  - Search
-    - [Meilisearch](https://docs.medusajs.com/add-plugins/meilisearch)
-    - [Algolia](https://docs.medusajs.com/add-plugins/algolia)
-  - File
-    - [Spaces](https://docs.medusajs.com/add-plugins/spaces)
-    - [S3](https://docs.medusajs.com/add-plugins/s3)
-    - [Minio](https://github.com/medusajs/medusa/tree/master/packages/medusa-file-minio)
-  - Loader
-    - [Shopify](https://github.com/medusajs/medusa/blob/master/packages/medusa-source-shopify/src/loaders/index.js)
-  - Invoice
-    - [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic)
-  - Discount
-    - [Generator](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-discount-generator)
-  - Inventory
-    - [Brightpearl](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-brightpearl)
-  - Payment
-    - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-manual)
-    - [Stripe](https://docs.medusajs.com/add-plugins/stripe)
-    - [Klarna](https://docs.medusajs.com/add-plugins/klarna)
-    - [Paypal](https://docs.medusajs.com/add-plugins/paypal)
-    - [Adyen](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-adyen)
-  - Fullfilment
-    - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual)
-    - [Webshiper](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-webshipper)
-  - Notification
-    - [Sendgrid](https://docs.medusajs.com/add-plugins/sendgrid)
-    - [Mailchimp](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-mailchimp)
-    - [Twilio](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-twilio-sms)
-  - Customer
-    - [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist)
-  - Bot
-    - [Slack](https://docs.medusajs.com/add-plugins/slack)
+    - CMS
+        - [Contentful](https://docs.medusajs.com/add-plugins/contentful)
+        - [Strapi](https://docs.medusajs.com/add-plugins/strapi)
+    - Analytics
+        - [Segment](https://docs.medusajs.com/add-plugins/segment)
+    - Search
+        - [Meilisearch](https://docs.medusajs.com/add-plugins/meilisearch)
+        - [Algolia](https://docs.medusajs.com/add-plugins/algolia)
+    - File
+        - [Spaces](https://docs.medusajs.com/add-plugins/spaces)
+        - [S3](https://docs.medusajs.com/add-plugins/s3)
+        - [Minio](https://github.com/medusajs/medusa/tree/master/packages/medusa-file-minio)
+    - Loader
+        - [Shopify](https://github.com/medusajs/medusa/blob/master/packages/medusa-source-shopify/src/loaders/index.js)
+    - Invoice
+        - [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic)
+    - Discount
+        - [Generator](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-discount-generator)
+    - Inventory
+        - [Brightpearl](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-brightpearl)
+    - Payment
+        - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-manual)
+        - [Stripe](https://docs.medusajs.com/add-plugins/stripe)
+        - [Klarna](https://docs.medusajs.com/add-plugins/klarna)
+        - [Paypal](https://docs.medusajs.com/add-plugins/paypal)
+        - [Adyen](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-adyen)
+    - Fullfilment
+        - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual)
+        - [Webshiper](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-webshipper)
+    - Notification
+        - [Sendgrid](https://docs.medusajs.com/add-plugins/sendgrid)
+        - [Mailchimp](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-mailchimp)
+        - [Twilio](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-twilio-sms)
+    - Customer
+        - [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist)
+    - Bot
+        - [Slack](https://docs.medusajs.com/add-plugins/slack)
 
 - Third party
-  - [Starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
-  - File
-    - [Cloudflare Images](https://github.com/drewdecarme/medusa-file-cloudflare-images)
+   - [Starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
+   - File
+        - [Cloudflare Images](https://github.com/drewdecarme/medusa-file-cloudflare-images)
 
 ## Contribute
 
