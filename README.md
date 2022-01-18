@@ -23,8 +23,9 @@
 
 - [News](#news)
 - [Resources](#resources)
+- [Video](#video)
 - [Projects using MedusaJS](#projects-using-medusajs)
-- [Components & Libraries & Plugins](#components-libraries-plugins)
+- [Components Libraries Plugins](#components-libraries-plugins)
   - [Components](#components)
   - [Libraries](#libraries)
   - [Plugins](#plugins)
@@ -73,7 +74,7 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 
 ### Libraries
 
-### PLugins
+### Plugins
 
 - Official
     - CMS
@@ -116,6 +117,8 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 
 - Third party
    - [Starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
+   - File
+        - [Cloudflare Images](https://github.com/drewdecarme/medusa-file-cloudflare-images)
 
 ## Contribute
 
