@@ -80,7 +80,7 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
     - [Nextjs Medusa express](https://github.com/medusajs/medusa-express-nextjs)
 - Third party
     - [Plugin starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
-    - [next-medusa-tailwind-template](https://github.com/avneesh0612/next-medusa-tailwind-template)
+    - [Next.js Medusa Tailwind starter](https://github.com/avneesh0612/next-medusa-tailwind-template)
 
 ### Plugins
 
