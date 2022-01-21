@@ -25,9 +25,8 @@
 - [Resources](#resources)
 - [Video](#video)
 - [Projects using MedusaJS](#projects-using-medusajs)
-- [Components Libraries Plugins](#components-libraries-plugins)
-  - [Components](#components)
-  - [Libraries](#libraries)
+- [Starters Plugins](#starters-plugins)
+  - [Starters](#starters)
   - [Plugins](#plugins)
 - [Contribute](#contribute)
 
@@ -50,6 +49,8 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
   - [GitHub Repo](https://github.com/medusajs/medusa)
     - [Gatsby starter](https://github.com/medusajs/gatsby-starter-medusa)
     - [Nextjs starter](https://github.com/medusajs/nextjs-starter-medusa)
+    - [Gatsby Medusa express](https://github.com/medusajs/medusa-express-gatsby)
+    - [Nextjs Medusa express](https://github.com/medusajs/medusa-express-nextjs)
   
 - Community
   - [Discord](https://discord.gg/xpCwq3Kfn8)
@@ -68,11 +69,18 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 
 - Open Source
 
-## Components Libraries Plugins
+## Starters Plugins
 
-### Components
+### Starters
 
-### Libraries
+- Official
+    - [Gatsby starter](https://github.com/medusajs/gatsby-starter-medusa)
+    - [Nextjs starter](https://github.com/medusajs/nextjs-starter-medusa)
+    - [Gatsby Medusa express](https://github.com/medusajs/medusa-express-gatsby)
+    - [Nextjs Medusa express](https://github.com/medusajs/medusa-express-nextjs)
+- Third party
+    - [Plugin starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
+    - [next-medusa-tailwind-template](https://github.com/avneesh0612/next-medusa-tailwind-template)
 
 ### Plugins
 
@@ -116,9 +124,9 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
         - [Slack](https://docs.medusajs.com/add-plugins/slack)
 
 - Third party
-   - [Starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
    - File
         - [Cloudflare Images](https://github.com/drewdecarme/medusa-file-cloudflare-images)
+        - [Local Storage](https://github.com/blechlawine/medusa-plugin-filestorage-local)
 
 ## Contribute
 
