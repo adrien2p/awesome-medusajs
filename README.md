@@ -25,8 +25,9 @@
 - [Resources](#resources)
 - [Video](#video)
 - [Projects using MedusaJS](#projects-using-medusajs)
-- [Starters Plugins](#starters-plugins)
+- [Starters - Packages - Plugins](#starters-packages-plugins)
   - [Starters](#starters)
+  - [Packages](#packages)
   - [Plugins](#plugins)
 - [Contribute](#contribute)
 
@@ -67,9 +68,10 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 
 ## Projects using MedusaJS
 
-- Open Source
+- [teklafabrics](https://teklafabrics.com/)
+- [palmes](https://palmes.co/)
 
-## Starters Plugins
+## Starters Packages Plugins
 
 ### Starters
 
@@ -81,6 +83,11 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 - Third party
     - [Plugin starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
     - [Next.js Medusa Tailwind starter](https://github.com/avneesh0612/next-medusa-tailwind-template)
+
+### Packages
+
+- Third party
+  - [Extender - Custom fields, extend entities/services/repositories, etc ....](https://github.com/adrien2p/medusa-extender)
 
 ### Plugins
 
