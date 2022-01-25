@@ -52,11 +52,18 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
     - [Nextjs starter](https://github.com/medusajs/nextjs-starter-medusa)
     - [Gatsby Medusa express](https://github.com/medusajs/medusa-express-gatsby)
     - [Nextjs Medusa express](https://github.com/medusajs/medusa-express-nextjs)
+
+- Demo
+  - [Admin panel](https://demo.medusa-commerce.com/)
+  - [Gatsby storefront](https://start.medusajs.com/)
+  - [Medusa express checkout](https://www.medusa.express/)
   
 - Community
   - [Discord](https://discord.gg/xpCwq3Kfn8)
   - [Twitter](https://twitter.com/intent/follow?screen_name=medusajs)
   - [Twitch](https://www.twitch.tv/medusajs)
+  - [Lionkedin](https://www.linkedin.com/company/medusa-commerce)
+  - [dev.to](https://dev.to/medusajs)
 
 - Tutorials
   - [Official tutorials](https://www.medusajs.com/blog)
