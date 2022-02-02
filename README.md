@@ -90,11 +90,13 @@ The Medusa team is still working hard, here is an admin revemp that will coming 
 - Third party
     - [Plugin starter (Typescript)](https://github.com/adrien2p/medusa-plugin-starter-ts)
     - [Next.js Medusa Tailwind starter](https://github.com/avneesh0612/next-medusa-tailwind-template)
+    - [Medusa-extender server](https://github.com/adrien2p/medusa-extender/tree/main/starters/server)
+    - [Medusa-extender Shareable module](https://github.com/adrien2p/medusa-extender/tree/main/starters/plugin-module)
 
 ### Packages
 
 - Third party
-  - [Extender - Custom fields, extend entities/services/repositories, etc ....](https://github.com/adrien2p/medusa-extender)
+  - [Extender - Custom fields, extend entities/services/repositories, build shareable modules](https://github.com/adrien2p/medusa-extender)
 
 ### Plugins
 
