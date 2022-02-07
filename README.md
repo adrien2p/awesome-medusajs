@@ -1,7 +1,7 @@
 <!--lint disable awesome-list-item-->
 <div align="center">
   <p align="center">
-    <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/129161578-19b83dc8-fac5-4520-bd48-53cba676edd2.png" width="200" />
+    <img alt="Medusa" src="https://uploads-ssl.webflow.com/61fba9f6deac297b7b22017d/62000006ce573a706c92546c_logo.svg" width="200" />
   </p>
 <h1>Awesome MedusaJS</h1>
 <p>A curated list of awesome things related to MedusaJS</p>
@@ -21,7 +21,6 @@
 
 ## Contents <!-- omit in toc -->
 
-- [News](#news)
 - [Resources](#resources)
 - [Video](#video)
 - [Projects using MedusaJS](#projects-using-medusajs)
@@ -33,11 +32,7 @@
 
 <!--lint enable awesome-list-item-->
 
-## News
-
-The Medusa team is still working hard, here is an admin revemp that will coming soon.
-
-![Admin dashboard revemp](./assets/admin-revemp.png)
+![Admin dashboard revamp](https://uploads-ssl.webflow.com/61fba9f6deac297b7b22017d/61fec76b67fa73688f7b7d2d_test-oli-p-2000.png)
 
 ## Resources
 
