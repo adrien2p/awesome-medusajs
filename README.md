@@ -70,8 +70,9 @@
 
 ## Projects using MedusaJS
 
-- [teklafabrics](https://teklafabrics.com/)
-- [palmes](https://palmes.co/)
+- [Teklafabrics](https://teklafabrics.com/)
+- [Palmes](https://palmes.co/)
+- [Adamebell](https://adamebell.games/)
 
 ## Starters Packages Plugins
 
