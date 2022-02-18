@@ -122,6 +122,7 @@
     - [Cloudflare Images](https://github.com/drewdecarme/medusa-file-cloudflare-images)
     - [Local Storage](https://github.com/blechlawine/medusa-plugin-filestorage-local)
     - [GCP](https://github.com/kingwill101/medusa-file-gcp)
+    - [Cloudinary](https://www.npmjs.com/package/medusa-file-cloudinary)
 </details>
 <details>
   <summary>Loader</summary>
