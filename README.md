@@ -95,49 +95,86 @@
 
 ### Plugins
 
-- Official
-    - CMS
-        - [Contentful](https://docs.medusajs.com/add-plugins/contentful)
-        - [Strapi](https://docs.medusajs.com/add-plugins/strapi)
-    - Analytics
-        - [Segment](https://docs.medusajs.com/add-plugins/segment)
-    - Search
-        - [Meilisearch](https://docs.medusajs.com/add-plugins/meilisearch)
-        - [Algolia](https://docs.medusajs.com/add-plugins/algolia)
-    - File
-        - [Spaces](https://docs.medusajs.com/add-plugins/spaces)
-        - [S3](https://docs.medusajs.com/add-plugins/s3)
-        - [Minio](https://github.com/medusajs/medusa/tree/master/packages/medusa-file-minio)
-    - Loader
-        - [Shopify](https://github.com/medusajs/medusa/blob/master/packages/medusa-source-shopify/src/loaders/index.js)
-    - Invoice
-        - [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic)
-    - Discount
-        - [Generator](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-discount-generator)
-    - Inventory
-        - [Brightpearl](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-brightpearl)
-    - Payment
-        - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-manual)
-        - [Stripe](https://docs.medusajs.com/add-plugins/stripe)
-        - [Klarna](https://docs.medusajs.com/add-plugins/klarna)
-        - [Paypal](https://docs.medusajs.com/add-plugins/paypal)
-        - [Adyen](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-adyen)
-    - Fullfilment
-        - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual)
-        - [Webshiper](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-webshipper)
-    - Notification
-        - [Sendgrid](https://docs.medusajs.com/add-plugins/sendgrid)
-        - [Mailchimp](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-mailchimp)
-        - [Twilio](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-twilio-sms)
-    - Customer
-        - [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist)
-    - Bot
-        - [Slack](https://docs.medusajs.com/add-plugins/slack)
+<details>
+  <summary>CMS</summary>
+  
+  - [Contentful](https://docs.medusajs.com/add-plugins/contentful)
+  - [Strapi](https://docs.medusajs.com/add-plugins/strapi)
+</details>
+<details>
+  <summary>Analytics</summary>
+  
+  - [Segment](https://docs.medusajs.com/add-plugins/segment)
+</details>
+<details>
+  <summary>Search</summary>
+  
+  - [Meilisearch](https://docs.medusajs.com/add-plugins/meilisearch)
+  - [Algolia](https://docs.medusajs.com/add-plugins/algolia)
+</details>
+<details>
+  <summary>File</summary>
+  
+  - [Spaces](https://docs.medusajs.com/add-plugins/spaces)
+  - [S3](https://docs.medusajs.com/add-plugins/s3)
+  - [Minio](https://github.com/medusajs/medusa/tree/master/packages/medusa-file-minio)
+  - Third party
+    - [Cloudflare Images](https://github.com/drewdecarme/medusa-file-cloudflare-images)
+    - [Local Storage](https://github.com/blechlawine/medusa-plugin-filestorage-local)
+    - [GCP](https://github.com/kingwill101/medusa-file-gcp)
+</details>
+<details>
+  <summary>Loader</summary>
+  
+  - [Shopify](https://github.com/medusajs/medusa/blob/master/packages/medusa-source-shopify/src/loaders/index.js)
+</details>
+<details>
+  <summary>Invoice</summary>
+  
+  - [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic)
+</details>
+<details>
+  <summary>Discount</summary>
+  
+  - [Generator](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-discount-generator)
+</details>
+<details>
+  <summary>Inventory</summary>
+  
+  - [Brightpearl](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-brightpearl)
+</details>
+<details>
+  <summary>Payment</summary>
+  
+  - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-manual)
+  - [Stripe](https://docs.medusajs.com/add-plugins/stripe)
+  - [Klarna](https://docs.medusajs.com/add-plugins/klarna)
+  - [Paypal](https://docs.medusajs.com/add-plugins/paypal)
+  - [Adyen](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-adyen)
+</details>
+<details>
+  <summary>Fullfilment</summary>
+  
+  - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual)
+  - [Webshiper](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-webshipper)
+</details>
+<details>
+  <summary>Notification</summary>
+  
+  - [Sendgrid](https://docs.medusajs.com/add-plugins/sendgrid)
+  - [Mailchimp](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-mailchimp)
+  - [Twilio](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-twilio-sms)
+</details>
+<details>
+  <summary>Customer</summary>
+  
+  - [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist)
+</details>
+<details>
+  <summary>Bot</summary>
 
-- Third party
-   - File
-        - [Cloudflare Images](https://github.com/drewdecarme/medusa-file-cloudflare-images)
-        - [Local Storage](https://github.com/blechlawine/medusa-plugin-filestorage-local)
+  - [Slack](https://docs.medusajs.com/add-plugins/slack)
+</details>
 
 ## Contribute
 
