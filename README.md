@@ -62,7 +62,8 @@
 
 - Tutorials
   - [Official tutorials](https://www.medusajs.com/blog)
-  - [Documentatuib tutorials](https://docs.medusajs.com/tutorial/set-up-your-development-environment)
+  - [Documentation tutorials](https://docs.medusajs.com/tutorial/set-up-your-development-environment)
+  - [Open source ecommerce platform for multi-vendor marketplaces](https://dev.to/medusajs/create-an-open-source-commerce-marketplace-part-1-3m5k)
   
 ### Video
 
@@ -73,6 +74,8 @@
 - [Teklafabrics](https://teklafabrics.com/)
 - [Palmes](https://palmes.co/)
 - [Adamebell](https://adamebell.games/)
+- [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
+- [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
 
 ## Starters Packages Plugins
 
