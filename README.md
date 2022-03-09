@@ -22,7 +22,6 @@
 ## Contents <!-- omit in toc -->
 
 - [Resources](#resources)
-- [Video](#video)
 - [Projects using MedusaJS](#projects-using-medusajs)
 - [Starters - Packages - Plugins](#starters-packages-plugins)
   - [Starters](#starters)
@@ -63,11 +62,15 @@
 - Tutorials
   - [Official tutorials](https://www.medusajs.com/blog)
   - [Documentation tutorials](https://docs.medusajs.com/tutorial/set-up-your-development-environment)
-  - [Open source ecommerce platform for multi-vendor marketplaces](https://dev.to/medusajs/create-an-open-source-commerce-marketplace-part-1-3m5k)
-  
-### Video
-
-[![Try it out](./assets/video-thumb-1.png)](https://cdn.loom.com/sessions/thumbnails/38d45d322cf749d6a20778c2b8afc07d-1635516731908.mp4)
+  - [Open source ecommerce platform for multi-vendor marketplaces](https://dev.to/medusajs/create-an-open-source-commerce-marketplace-part-1-3m5k)  
+  - [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
+  - [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
+  - Videos
+    - [Deploying Medusa Admin on Netlify](https://www.medusajs.com/post/video-deploy-medusa-admin-on-netlify)
+    - [Deploying Medusa to Heroku in minutes](https://www.medusajs.com/post/video-guide-deploy-medusa-to-heroku-in-minutes)
+    - [medusa-file-spaces](https://user-images.githubusercontent.com/59018053/154808767-7c030254-1879-41fd-a71c-b31c5508d8a4.mp4)
+    - [medusa-plugin-sendgrid](https://user-images.githubusercontent.com/59018053/154807282-1e72671f-1936-411d-b914-e05c6597693a.mp4)
+    - [medusa-payment-stripe](https://user-images.githubusercontent.com/59018053/154807206-6fbda0a6-bf3e-4e39-9fc2-f11710afe0b9.mp4)
 
 ## Projects using MedusaJS
 
@@ -95,7 +98,7 @@
 ### Packages
 
 - Third party
-  - [Extender - Custom fields, extend entities/services/repositories, build shareable modules](https://github.com/adrien2p/medusa-extender)
+  - [medusa-extender - Badass modules on top of @medusajs](https://github.com/adrien2p/medusa-extender)
 
 ### Plugins
 
