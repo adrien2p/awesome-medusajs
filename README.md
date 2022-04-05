@@ -172,6 +172,8 @@
   - [Sendgrid](https://docs.medusajs.com/add-plugins/sendgrid)
   - [Mailchimp](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-mailchimp)
   - [Twilio](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-twilio-sms)
+  - Third party
+    - [node mailer](https://github.com/Blechlawine/medusa-plugin-nodemailer)
 </details>
 <details>
   <summary>Customer</summary>
