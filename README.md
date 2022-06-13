@@ -159,6 +159,9 @@
   - [Klarna](https://docs.medusajs.com/add-plugins/klarna)
   - [Paypal](https://docs.medusajs.com/add-plugins/paypal)
   - [Adyen](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-adyen)
+  - Third party
+    - [Subscriptions plugin](https://github.com/rrums123/medusa-plugin-subscription)
+    - [Stripe subscriptions](https://github.com/rrums123/medusa-payment-stripe-subscription)
 </details>
 <details>
   <summary>Fullfilment</summary>
