@@ -112,6 +112,7 @@
   <summary>Analytics</summary>
   
   - [Segment](https://docs.medusajs.com/add-plugins/segment)
+  - [Jitsu](https://github.com/joseantcordeiro/medusa-plugin-jitsu)
 </details>
 <details>
   <summary>Search</summary>
