@@ -56,7 +56,7 @@
   - [Discord](https://discord.gg/xpCwq3Kfn8)
   - [Twitter](https://twitter.com/intent/follow?screen_name=medusajs)
   - [Twitch](https://www.twitch.tv/medusajs)
-  - [Lionkedin](https://www.linkedin.com/company/medusa-commerce)
+  - [Linkedin](https://www.linkedin.com/company/medusa-commerce)
   - [dev.to](https://dev.to/medusajs)
 
 - Tutorials
