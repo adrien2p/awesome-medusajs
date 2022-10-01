@@ -72,11 +72,14 @@
     - [medusa-plugin-sendgrid](https://user-images.githubusercontent.com/59018053/154807282-1e72671f-1936-411d-b914-e05c6597693a.mp4)
     - [medusa-payment-stripe](https://user-images.githubusercontent.com/59018053/154807206-6fbda0a6-bf3e-4e39-9fc2-f11710afe0b9.mp4)
 
-## Projects using MedusaJS
+## Community projects using MedusaJS
 
 - [Teklafabrics](https://teklafabrics.com/)
 - [Palmes](https://palmes.co/)
-- [Adamebell](https://adamebell.games/)
+- [Dubray Books](https://www.dubraybooks.ie/)
+- [Nibll](https://www.nibll.com/)
+- [Phanta.sota](https://phanta.sota.xyz/)
+- [Refine](https://store.refine.dev/)
 - [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
 - [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
 
