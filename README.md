@@ -166,6 +166,7 @@
   - Third party
     - [Subscriptions plugin](https://github.com/rrums123/medusa-plugin-subscription)
     - [Stripe subscriptions](https://github.com/rrums123/medusa-payment-stripe-subscription)
+    - [Razorpay](https://www.npmjs.com/package/medusa-payment-razorpay)
 </details>
 <details>
   <summary>Fullfilment</summary>
