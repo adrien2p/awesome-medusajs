@@ -116,6 +116,8 @@
   
   - [Segment](https://docs.medusajs.com/add-plugins/segment)
   - [Jitsu](https://github.com/joseantcordeiro/medusa-plugin-jitsu)
+  - Third party
+    - [Sentry](https://github.com/adrien2p/medusa-plugins/tree/main/packages/medusa-plugin-sentry)
 </details>
 <details>
   <summary>Search</summary>
