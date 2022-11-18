@@ -146,6 +146,10 @@ Cloudflare Images provides a straightforward, end-to-end solution to cost-effect
 - [Shopify](https://github.com/medusajs/medusa/tree/master/packages/medusa-source-shopify) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)  
 This plugin will copy all of your products and collections from Shopify to Medusa.
 
+- [Magento](https://github.com/shahednasser/medusa-source-magento) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/shahednasser/medusa-source-magento?color=blue)  
+This plugin will copy all of your products and collections from Magento to Medusa.
+
+
 ### Invoice
   
 - [Economic](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-economic) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
