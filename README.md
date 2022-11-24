@@ -184,6 +184,7 @@ End-to-end payments, data, and financial management in one solution. Meet the fi
 - [Stripe subscriptions](https://github.com/rrums123/medusa-payment-stripe-subscription) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/rrums123/medusa-payment-stripe-subscription)
 
 - [Razorpay](https://www.npmjs.com/package/medusa-payment-razorpay) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square)  
+Razorpay is one of the most popular payment services in India, supporting all modes of payments from credit card, debit card, bank transfer, UPI etc. You need a razorpay account (https://razorpay.com) account to use razorpay with medusa. You can checkout the git hub repo here [GitHub] (https://github.com/SGFGOV/medusa-payment-razorpay)
 
 ### Fullfilment
 
