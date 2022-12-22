@@ -141,6 +141,8 @@ Cloudflare Images provides a straightforward, end-to-end solution to cost-effect
 
 - [Cloudinary](https://www.npmjs.com/package/medusa-file-cloudinary) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square)
 
+- [Supabase](https://github.com/yinkakun/medusa-file-supabase) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/yinkakun/medusa-file-supabase)
+
 ### Loader
   
 - [Shopify](https://github.com/medusajs/medusa/tree/master/packages/medusa-source-shopify) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)  
