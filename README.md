@@ -151,6 +151,9 @@ This plugin will copy all of your products and collections from Shopify to Medus
 - [Magento](https://github.com/shahednasser/medusa-source-magento) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/shahednasser/medusa-source-magento?color=blue)  
 This plugin will copy all of your products and collections from Magento to Medusa.
 
+- [Prestashop](https://github.com/juansoler/medusa-source-prestashop) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/juansoler/medusa-source-prestashop)  
+This plugin imports Prestashop categories and products into Medusa. It creates categories and products that don't exist, and updates those that have been imported previously.
+
 
 ### Invoice
   
@@ -205,6 +208,9 @@ Mailchimp is an all-in-one marketing platform that helps you manage and talk to 
 Twilio powers personalized interactions and trusted global communications to connect you with customers.
 
 - [node mailer](https://github.com/Blechlawine/medusa-plugin-nodemailer) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/Blechlawine/medusa-plugin-nodemailer)
+
+- [Amazon SES](https://github.com/pevey/medusa-plugin-ses#readme) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/pevey/medusa-plugin-ses#readme)  
+Notifications plugin for Medusa ecommerce server that sends transactional emails via AWS SES (Simple Email Service).
 
 ### Customer content
 
