@@ -56,14 +56,12 @@
 
 # Projects using MedusaJS
 
+We are aware of a lot of different projects using Medusa in production - from scale ups to public companies. Unfortunately we cannot share all of them as most are larger projects guarded by NDAs or without explicit consent to be shared.
+A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Bryant Dental.
+
 - [Teklafabrics](https://teklafabrics.com/)
 - [Palmes](https://palmes.co/)
 - [Dubray Books](https://www.dubraybooks.ie/)
-- [Nibll](https://www.nibll.com/)
-- [Phanta.sota](https://phanta.sota.xyz/)
-- [Refine](https://store.refine.dev/)
-- [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
-- [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
 
 # Starters
 
@@ -75,6 +73,8 @@
 - [Next.js Medusa Tailwind starter](https://github.com/avneesh0612/next-medusa-tailwind-template)
 - [Medusa-extender server](https://github.com/adrien2p/medusa-extender/tree/main/starters/server)
 - [Medusa-extender Shareable module](https://github.com/adrien2p/medusa-extender/tree/main/starters/plugin-module)
+- [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
+- [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
 
 # Plugins and packages
 
