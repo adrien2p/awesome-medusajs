@@ -142,7 +142,11 @@ Cloudflare Images provides a straightforward, end-to-end solution to cost-effect
 
 - [Cloudinary](https://www.npmjs.com/package/medusa-file-cloudinary) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square)
 
-- [Supabase](https://github.com/yinkakun/medusa-file-supabase) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/yinkakun/medusa-file-supabase)
+- [Supabase](https://github.com/yinkakun/medusa-file-supabase) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/yinkakun/medusa-file-supabase) Supabase Storage plugin for MedusaJS.
+
+- [Cloudflare R2]([https://github.com/drewdecarme/medusa-file-cloudflare-images](https://github.com/yinkakun/medusa-file-r2)) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/yinkakun/medusa-file-r2)  
+Cloudflare R2 storage plugin for Medusa. This plugin also supports CSV exports and imports. R2 is S3-compatible object storage service by Cloudflare and has a 10GB/month forever-free tier.
+
 
 ### Loader
   
