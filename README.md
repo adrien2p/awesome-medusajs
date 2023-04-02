@@ -217,6 +217,9 @@ Twilio powers personalized interactions and trusted global communications to con
 - [Amazon SES](https://github.com/pevey/medusa-plugin-ses#readme) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/pevey/medusa-plugin-ses#readme)  
 Notifications plugin for Medusa ecommerce server that sends transactional emails via AWS SES (Simple Email Service).
 
+- [Mailjet](https://github.com/Hemann55/medusa-plugin-mailjet) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/Hemann55/medusa-plugin-mailjet)  
+Use medusa-plugin-mailjet to send transactional and marketing emails to your customers.
+
 ### Customer content
 
 - [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
