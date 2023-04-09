@@ -201,7 +201,7 @@ End-to-end payments, data, and financial management in one solution. Meet the fi
 
 - [Webshiper](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-webshipper) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
-- [Shiprocket](https://github.com/Hemann55/medusa-fulfillment-shiprocket) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/Hemann55/medusa-fulfillment-shiprocket)
+- [Shiprocket](https://github.com/Hemann55/medusa-fulfillment-shiprocket) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/Hemann55/medusa-fulfillment-shiprocket)  
 Shiprocket is a popular eCommerce logistics and shipping service provider in India. Fulfill your Medusa orders, swaps and returns using medusa-fulfillment-shiprocket
 
 ### Notification
