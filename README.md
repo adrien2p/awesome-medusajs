@@ -138,6 +138,8 @@ Cloudflare Images provides a straightforward, end-to-end solution to cost-effect
 
 - [Local Storage](https://github.com/blechlawine/medusa-plugin-filestorage-local) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/blechlawine/medusa-plugin-filestorage-local)
 
+- [Imgur](https://github.com/samyarkd/medusa-imgur) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/samyarkd/medusa-imgur)
+
 - [GCP](https://github.com/kingwill101/medusa-file-gcp) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/kingwill101/medusa-file-gcp)
 
 - [Cloudinary](https://www.npmjs.com/package/medusa-file-cloudinary) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square)
