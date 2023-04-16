@@ -147,6 +147,8 @@ Cloudflare Images provides a straightforward, end-to-end solution to cost-effect
 - [Cloudflare R2](https://github.com/yinkakun/medusa-file-r2) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/yinkakun/medusa-file-r2)  
 Cloudflare R2 storage plugin for Medusa. This plugin also supports CSV exports and imports. R2 is S3-compatible object storage service by Cloudflare and has a 10GB/month forever-free tier.
 
+- [Imgur](https://github.com/samyarkd/medusa-imgur) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/samyarkd/medusa-imgur)
+Use free Imgur-Api as your fileservice to upload images.
 
 ### Loader
   
