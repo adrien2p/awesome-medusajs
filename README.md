@@ -224,6 +224,9 @@ Notifications plugin for Medusa ecommerce server that sends transactional emails
 
 - [Mailjet](https://github.com/Hemann55/medusa-plugin-mailjet) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/Hemann55/medusa-plugin-mailjet)  
 Use medusa-plugin-mailjet to send transactional and marketing emails to your customers.
+  
+- [Postmark](https://github.com/Fullstak-nl/medusa-plugin-postmark) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/Fullstak-nl/medusa-plugin-postmark)  
+Mail notifications powered by Postmark templates including PDF invoices that can be configured with json files
 
 ### Customer content
 
