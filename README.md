@@ -122,6 +122,9 @@ MeiliSearch also provides a pleasant developer experience, as it is extremely in
 - [Algolia](https://docs.medusajs.com/add-plugins/algolia) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)  
 Algolia can be used for a wide range of use cases, including ecommerce websites. By integrating Algolia into your ecommerce website, you can provide your customers with a better user experience and help them find what they’re looking for swifltly.
 
+- [Elasticsearch](https://www.npmjs.com/package/medusa-plugin-elasticsearch) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/peterborodatyy/medusa-plugin-elasticsearch) 
+Elasticsearch is a seamless and intuitive search engine solution. Its developer-friendly nature and comprehensive documentation make it accessible to all. Enhance your ecommerce website with Elasticsearch for swift and efficient searches, providing a superior user experience to your customers.
+
 ### File storage and management
   
 - [Spaces](https://docs.medusajs.com/add-plugins/spaces) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)  
