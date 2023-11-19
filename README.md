@@ -231,6 +231,9 @@ Use medusa-plugin-mailjet to send transactional and marketing emails to your cus
 - [Postmark](https://github.com/Fullstak-nl/medusa-plugin-postmark) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/Fullstak-nl/medusa-plugin-postmark)  
 Mail notifications powered by Postmark templates including PDF invoices that can be configured with json files
 
+- [Seven](https://github.com/seven-io/medusa) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/seven-io/medusa)  
+SMS and text-to-speech notifications powered by Seven
+
 ### Customer content
 
 - [Wish list](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-wishlist) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
