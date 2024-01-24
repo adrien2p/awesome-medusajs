@@ -153,6 +153,9 @@ Cloudflare R2 storage plugin for Medusa. This plugin also supports CSV exports a
 - [Imgur](https://github.com/samyarkd/medusa-imgur) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/samyarkd/medusa-imgur)
 Use free Imgur-Api as your fileservice to upload images.
 
+- [Aliyun OSS](https://github.com/wangjue666/medusa-file-ali) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/wangjue666/medusa-file-ali)
+Aliyun OSS file connector for Medusa.
+
 ### Loader
   
 - [Shopify](https://github.com/medusajs/medusa/tree/master/packages/medusa-source-shopify) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)  
