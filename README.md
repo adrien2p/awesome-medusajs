@@ -245,6 +245,11 @@ SMS and text-to-speech notifications powered by Seven
 
 - [Slack](https://docs.medusajs.com/add-plugins/slack) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
 
+### Event Module
+
+- [AWS EventBridge](https://github.com/ikhvost/medusa-event-bus-aws) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/ikhvost/medusa-event-bus-aws?color=green)  
+A Medusa module for seamless integration with AWS EventBridge, enabling real-time event handling in headless e-commerce applications.
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
