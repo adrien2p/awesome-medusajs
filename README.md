@@ -250,6 +250,11 @@ SMS and text-to-speech notifications powered by Seven
 - [AWS EventBridge](https://github.com/ikhvost/medusa-event-bus-aws) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/ikhvost/medusa-event-bus-aws?color=green)  
 A Medusa module for seamless integration with AWS EventBridge, enabling real-time event handling in headless e-commerce applications.
 
+### Blog
+
+- [Medusa Plugin Blogger](https://github.com/MoscatelliMarco/medusa-plugin-blogger) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/MoscatelliMarco/medusa-plugin-blogger)  
+A blog integration for your MedusaJS admin page, enabling you to create and manage blog articles directly from the admin interface.
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
