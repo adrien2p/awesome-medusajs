@@ -76,6 +76,7 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 - [Medusa-extender Shareable module](https://github.com/adrien2p/medusa-extender/tree/main/starters/plugin-module)
 - [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
 - [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
+- [Medusa storefront](https://github.com/itswadesh/svelte-commerce)
 
 # Plugins and packages
 
