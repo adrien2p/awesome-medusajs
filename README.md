@@ -256,6 +256,11 @@ A Medusa module for seamless integration with AWS EventBridge, enabling real-tim
 - [Medusa Plugin Blogger](https://github.com/MoscatelliMarco/medusa-plugin-blogger) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/MoscatelliMarco/medusa-plugin-blogger)  
 A blog integration for your MedusaJS admin page, enabling you to create and manage blog articles directly from the admin interface.
 
+### Dashboard
+
+- [Nocto]([https://docs.medusajs.com/add-plugins/segment](https://www.noctojs.com/)  ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/RSC-Labs/nocto?color=green)  
+Modular, pluggable admin for Medusa
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
