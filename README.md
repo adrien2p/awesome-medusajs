@@ -204,6 +204,9 @@ End-to-end payments, data, and financial management in one solution. Meet the fi
 
 - [Razorpay](https://www.npmjs.com/package/medusa-payment-razorpay) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square)  
 
+- [Bitcoin Lightning (CLINK)](https://github.com/WoompaLoompa/medusa-clink) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/WoompaLoompa/medusa-clink)  
+Accept Bitcoin Lightning payments via the CLINK protocol. Self-custodial, instant settlement, subscriptions via nDebit.
+
 ### Fullfilment
 
 - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
