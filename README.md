@@ -182,6 +182,10 @@ This plugin imports Prestashop categories and products into Medusa. It creates c
 - [Brightpearl](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-brightpearl) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)  
 Sends orders to Brightpearl, listens for stock movements, handles returns.
 
+### AI agents
+
+- [Claude Commerce Agents backend](https://github.com/vishkaty/commerce-agents-medusa) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/vishkaty/commerce-agents-medusa) Anthropic's shopping and merchant agents over Medusa v2, with Stripe checkout and a conformance suite.
+
 ### Payment
 
 - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-payment-manual) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
