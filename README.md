@@ -77,6 +77,7 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 - [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
 - [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
 - [Medusa storefront](https://github.com/itswadesh/svelte-commerce)
+- [Mercur marketplace platform](https://github.com/mercurjs/mercur)
 
 # Plugins and packages
 
