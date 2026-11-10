@@ -204,6 +204,9 @@ End-to-end payments, data, and financial management in one solution. Meet the fi
 
 - [Razorpay](https://www.npmjs.com/package/medusa-payment-razorpay) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square)  
 
+- [Przelewy24](https://github.com/gmi-software/przelewy24-medusa) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/gmi-software/przelewy24-medusa)  
+Przelewy24 payment provider for Medusa v2: BLIK (regular and one-click), cards, Visa Mobile and P24 redirect flows, with webhook signature verification and sandbox mode.
+
 ### Fullfilment
 
 - [Manual](https://github.com/medusajs/medusa/tree/master/packages/medusa-fulfillment-manual) ![source](https://img.shields.io/static/v1?label=official&message=&nbsp;&color=green&style=flat-square) ![stars](https://img.shields.io/github/stars/medusajs/medusa?color=green)
