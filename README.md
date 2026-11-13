@@ -258,6 +258,9 @@ A blog integration for your MedusaJS admin page, enabling you to create and mana
 
 ### Dashboard
 
+- [medusa-plugin-qz-tray](https://github.com/mazalpos/medusa-plugin-qz-tray) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/mazalpos/medusa-plugin-qz-tray)  
+Print receipts from Medusa Admin straight to a thermal printer with QZ Tray. Built by MazalPOS.
+
 - [Nocto](https://www.noctojs.com/)  ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/RSC-Labs/nocto?color=green)  
 Modular, pluggable admin for Medusa
 
