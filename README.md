@@ -77,6 +77,8 @@ A few of the projects we are allowed to share are Tekla, Dubray, Palmes and Brya
 - [Medusa marketplace tutorial](https://github.com/shahednasser/medusa-marketplace-tutorial)
 - [Medusa marketplace plugin tutorial](https://github.com/shahednasser/medusa-marketplace)
 - [Medusa storefront](https://github.com/itswadesh/svelte-commerce)
+- [Medusa Mobile React Native storefront](https://github.com/bloomsynth/medusa-mobile-react-native)
+- [Medusa Mobile Flutter storefront](https://github.com/bloomsynth/medusa-mobile-flutter)
 
 # Plugins and packages
 
